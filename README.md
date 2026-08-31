@@ -21,4 +21,4 @@ This repository contains the work, assignments, lab exercises, and project deliv
 
 ## Repository
 
-**GitHub:** `https://github.com/KshitijShetty27/Software-Engineering_Lab_Team_03`
+**GitHub:** `https://github.com/mohit2007malur-png/Corporate-Mental-Wellness-Platform.git`
